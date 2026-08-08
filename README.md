@@ -41,7 +41,7 @@
 
 <img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
-<img width ="50" heigth ="50" src="" />
+<img width ="50" heigth ="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
    
 
 <img width ="50" heigth ="50" src="https://lh6.googleusercontent.com/proxy/aFelwGbPlotVVa-LjaVPG7QaMTtsZV8bK0VQvtQVhs-gYAAmP7Ks6EEriouNbzGKkIB2jydb0tj7NOzTLUOyyHLtKdkoQ5WHJ5UjjTcgSKm3-IRQ1xX0fQ" />  
