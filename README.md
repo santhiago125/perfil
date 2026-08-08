@@ -37,11 +37,12 @@
 
 <img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 
-<img width ="50" heigth ="50" src="" /> 
+<img width ="50" heigth ="50" src="https://github.com/user-attachments/assets/1c96c103-f7c6-43bf-a895-e1a94344a967" />
+" /> 
 
 <img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
-<img width ="50" heigth ="50" src="https://avatars.githubusercontent.com/u/6318500?s=280&v=4" />
+<img width ="50" heigth ="50" src="" />
    
 
 <img width ="50" heigth ="50" src="https://lh6.googleusercontent.com/proxy/aFelwGbPlotVVa-LjaVPG7QaMTtsZV8bK0VQvtQVhs-gYAAmP7Ks6EEriouNbzGKkIB2jydb0tj7NOzTLUOyyHLtKdkoQ5WHJ5UjjTcgSKm3-IRQ1xX0fQ" />  
